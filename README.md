@@ -1,18 +1,14 @@
-# r0cketd44n.github.io
+# Welcome to LassSo.dev
 
 ## Heading 2
 
 body of heading 2
 
-### Heading 3
-
-body of heading 3
-
-#### Another thing
+### Another thing
 
 You're gonna love this
 
-## Another topic
+## Internet communications device
 
 lorum ipsum
 
